@@ -1,2 +1,2 @@
 # static-resources
-persion's static resrources
+person's static resources
